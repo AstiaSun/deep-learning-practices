@@ -8,3 +8,4 @@ Here I will publish prictise works from Deep Learning course. Lessons are held m
 List o contents:
 
 1. [Image classifier using least squares method](https://github.com/AstiaSun/deep-learning-practices/blob/master/practise1/Practice1.ipynb)
+2. [Image classifier using CNN vs Fully connected networks](https://github.com/AstiaSun/deep-learning-practices/blob/master/practise7/cnn_practice.ipynb)
